@@ -1,5 +1,5 @@
 # Task Car Dashboard And website
-gh  clone Manonaahmd/car_taskfainal
+ git clone Manonaahmd/car_taskfainal
 
 ### Installation
 
