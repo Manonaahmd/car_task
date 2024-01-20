@@ -1,5 +1,5 @@
 # Task Car Dashboard And website
-
+gh  clone Manonaahmd/car_taskfainal
 
 ### Installation
 
@@ -11,7 +11,7 @@ Clone the repository
 
 Switch to the repo folder
 
-    cd task_car
+    cd car_taskfainal
 
 Install all the dependencies using composer
 
