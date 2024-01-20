@@ -6,8 +6,7 @@
 
 Clone the repository
 
-    git clone https://github.com/AbdelrahmanEldesoky/task_car.git
-
+    
 
 
 Switch to the repo folder
